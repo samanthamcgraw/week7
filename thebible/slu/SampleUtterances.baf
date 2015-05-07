@@ -1,0 +1,5 @@
+ReadIntent read {genesis|book} chapter {one|chapter} verse {one|verse}
+ReadIntent read {genesis|book} {two|chapter} {three|verse}
+ReadIntent {genesis|book} {six|chapter} {seven|verse}
+
+RandomIntent random
